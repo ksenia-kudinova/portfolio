@@ -16,5 +16,4 @@ https://www.figma.com/design/O5G0cNeE8aDdiFyeR3Ef2T/growfy?node-id=1-2&t=uCwUwVT
 https://www.figma.com/design/1EMyVtKtQo9j7FjtJKTnxs/Probe?node-id=0-1&t=aQVw2QMTzMXOiWge-1
 
 Bildbearbeitung und Retusche:
-
 https://drive.google.com/drive/u/2/folders/1v-vv-cLSXx7IHfR7KMJz5laAUrkgkWG9
