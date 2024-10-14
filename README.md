@@ -24,6 +24,10 @@ https://www.figma.com/design/LdTIYhdvsxxGJ6snNmhG5W/Business-Mentor?node-id=0-1&
 
 https://www.figma.com/design/1EMyVtKtQo9j7FjtJKTnxs/Probe?node-id=0-1&t=aQVw2QMTzMXOiWge-1
 
+7. Das Layout der Visitenkarte in Figma
+
+https://www.figma.com/design/XsSgtoamFiygOZvbCrsknR/Visitenkarte?node-id=0-1&t=ytujCqtTPT3Nkxcd-1
+
 
 
 
