@@ -14,9 +14,15 @@ https://www.figma.com/design/1MoMSO2IsEKPiiamcmEwOh/TheWildKingdom?node-id=1-392
 
 https://www.figma.com/design/O5G0cNeE8aDdiFyeR3Ef2T/growfy?node-id=1-2&t=uCwUwVTA99OI0tRq-1
 
-5. Die Mobile App "Restaurant" 
+5. Das Seite-Layout "Business Mentor"
+https://www.figma.com/design/LdTIYhdvsxxGJ6snNmhG5W/Business-Mentor?node-id=0-1&t=01CEjsQoPPc2MEj7-1
+
+6. Die Mobile App "Restaurant" 
 
 https://www.figma.com/design/1EMyVtKtQo9j7FjtJKTnxs/Probe?node-id=0-1&t=aQVw2QMTzMXOiWge-1
+
+
+
 
 Bildbearbeitung und Retusche:
 
